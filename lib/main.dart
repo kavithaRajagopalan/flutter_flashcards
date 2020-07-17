@@ -49,7 +49,7 @@ class MyHomePage extends StatelessWidget {
              height: 300,
              decoration: BoxDecoration(
                image: DecorationImage(
-                 image: AssetImage('assets/sample_img.png'),
+                 image: AssetImage('images/sample_img.png'),
                  fit: BoxFit.fill,
              ),
             ),
