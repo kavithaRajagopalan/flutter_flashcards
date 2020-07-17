@@ -23,7 +23,7 @@ environment:
 dependencies:
   flip_card:
     git:
-      url: git://github.com/fedeoo/flip_card.git
+      url: git://github.com/kavithaRajagopalan/flip_card.git
   flutter:
     sdk: flutter
 

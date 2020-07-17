@@ -70,7 +70,7 @@ packages:
       path: "."
       ref: HEAD
       resolved-ref: "6fdeb3b7ff5ceddf0b2d51e997eeab800e7182e2"
-      url: "git://github.com/fedeoo/flip_card.git"
+      url: "git://github.com/kavithaRajagopalan/flip_card.git"
     source: git
     version: "0.4.4"
   flutter:
